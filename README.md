@@ -1,0 +1,6 @@
+[biodata1.txt](https://github.com/user-attachments/files/18750010/biodata1.txt)
+[home.txt](https://github.com/user-attachments/files/18750009/home.txt)
+[gallery.txt](https://github.com/user-attachments/files/18750008/gallery.txt)
+[family.txt](https://github.com/user-attachments/files/18750007/family.txt)
+[experience.txt](https://github.com/user-attachments/files/18750006/experience.txt)
+[exeprience.txt](https://github.com/user-attachments/files/18750004/exeprience.txt)
